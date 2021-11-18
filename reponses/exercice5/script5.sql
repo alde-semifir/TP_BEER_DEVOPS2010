@@ -4,4 +4,4 @@ FROM
     ticket
 WHERE
     MONTH(DATE_VENTE) = 03
-        AND YEAR(DATE_VENTE) = 2014
+        AND YEAR(DATE_VENTE) = 2014;
