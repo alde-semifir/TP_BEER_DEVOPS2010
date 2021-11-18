@@ -1,0 +1,1 @@
+select NUMERO_TICKET, DATE_VENTE from ticket where ticket.DATE_VENTE = '2014-01-15'
