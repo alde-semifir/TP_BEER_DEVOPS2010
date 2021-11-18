@@ -5,8 +5,8 @@
 SELECT 
     ventes.NUMERO_TICKET 'Numéro Ticket',
     SUM(CASE
-        WHEN ventes.QUANTITE > 50 THEN ventes.QUANTITE
-        ELSE 0
+        WHEN ventes.QUANTITE > 50 THEN 0
+        ELSE ventes.QUANTITE
     END) as Total
 FROM
     ventes
