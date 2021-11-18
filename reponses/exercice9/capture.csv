@@ -1,0 +1,707 @@
+nom_article,id_article,ID_Couleur
+"das Helle",2,NULL
+"Bécasse Originale Framboise",23,NULL
+"Bécasse Originale Kriek",25,NULL
+"Bodingtons Draught Bitter",28,NULL
+"Leffe Ruby",39,NULL
+Quilmes,47,NULL
+"Skol Pils",49,NULL
+"Liefmans Frambozen",71,NULL
+"Liefmans Glühkriek",72,NULL
+Desperados,86,NULL
+"Fischer de Printemps",88,NULL
+"John Smith's Original Bitter",103,NULL
+Maes,104,NULL
+"Mc Ewan's Scotch",105,NULL
+"Mort Subite Kriek",108,NULL
+"Newcastle Brown Ale",110,NULL
+"Watneys Scotch Ale",116,NULL
+"Corne de Brume",125,NULL
+"Nuits Blanches",134,NULL
+Explorer,149,NULL
+"The Poker Series - Roi de Coeur",150,NULL
+"Alesmith X Extra Pale Ale",154,NULL
+"Anvil Ale ESB",155,NULL
+Volpina,162,NULL
+"Anchor IPA",163,NULL
+"Old Foghorn",168,NULL
+"Paljas IPA",169,NULL
+"Bengal Tiger IPA",180,NULL
+"Cascade Pale Ale",181,NULL
+"Red Alert",185,NULL
+"Bonaventure IPA (la)",187,NULL
+"Tournemine Real Ale",189,NULL
+"The Maharaja IPA",191,NULL
+Celebrator,192,NULL
+"Fursty Ferret",194,NULL
+"Angry Boy Brown Ale",196,NULL
+"Baltika 9",206,NULL
+Tatou,210,NULL
+"Croix Roussienne Saison (la)",216,NULL
+"Ninkasi I.P.A.",221,NULL
+"Ninkasi Saison - Agrippine",224,NULL
+"Summer Swallow",227,NULL
+"Bavaria 8.6",228,NULL
+"Original Leipziger Gose",229,NULL
+"8 Ball",231,NULL
+"Gamma Ray APA",233,NULL
+Delta,235,NULL
+"Belhaven Fruit Beer",240,NULL
+"Belhaven Scottish Ale",241,NULL
+"St Andrews Ale",245,NULL
+"Twisted Thistle IPA",246,NULL
+"Neudorf Red Ale",249,NULL
+Procrastinator,258,NULL
+"Rousse Pète",266,NULL
+Equilibrista,277,NULL
+Prunus,282,NULL
+Rubus,284,NULL
+"Black Sheep Ale",297,NULL
+"Monty Python Holy Grail",299,NULL
+"Jacobins Framboise Max",301,NULL
+Kerasus,331,NULL
+Omega,337,NULL
+Phi,338,NULL
+"Aour Du",342,NULL
+"Lutina Violetta",368,NULL
+Atlas,375,NULL
+"Astra Urtyp",383,NULL
+"O'Haras Irish Pale Ale",400,NULL
+"Bon Secours Myrtille",407,NULL
+"Brasserie Corrézienne Ambrée",417,NULL
+"Brasserie Corrézienne Rouge",421,NULL
+"HopHopHop Aramis",428,NULL
+"Bercloise au Cognac",447,NULL
+"Gwiniz Du (Cuvée crêperie)",466,NULL
+"Amérindienne (l')",470,NULL
+"Cowboy & Indien Pale Ale",472,NULL
+"Fleurac Rouge à la Gentiane",477,NULL
+"Blondine Chinook Single Hop IPA",493,NULL
+"Julien Indian Pale Ale",502,NULL
+"Tête au Carré",505,NULL
+"3 Ter",507,NULL
+Ernestine,509,NULL
+"Double Sec",512,NULL
+Lun'ion-Jacques,533,NULL
+Luna'cious,534,NULL
+"Brusseleir Zwët IPA",546,NULL
+"'t Ooievaartje Krieken Rosé",572,NULL
+Amarillo,573,NULL
+"Bitch Black",574,NULL
+"Mikkel & Menno",579,NULL
+"Open & Bloot",581,NULL
+"Sladek Hopburst",584,NULL
+"Elliot Brew",619,NULL
+"SVEA IPA",628,NULL
+"Atlantic au pineau",647,NULL
+"Arlésienne (l')",650,NULL
+"Frappadingue (la)",659,NULL
+"Oldarki au Patxaran",681,NULL
+"Vent d'Ange",692,NULL
+Chaman,695,NULL
+"Corne du Diable",697,NULL
+"Rigor Mortis",701,NULL
+"Route des Epices",703,NULL
+Mouska,706,NULL
+"Bob's Cherry Ale",711,NULL
+"Bobby's Own Ginger Beer",712,NULL
+"Lili's Beer",714,NULL
+"Soft Bobby",716,NULL
+"Antytax Roi des Astyanax",740,NULL
+"Cherries from Space",743,NULL
+"Dernière Tentation (la)",746,NULL
+"Dr. Jekyll",748,NULL
+"Loch Dukoss",750,NULL
+"Mister Hyde",752,NULL
+"Rambling Skunk (the)",754,NULL
+"Squale Harmonique (le)",756,NULL
+"Lune Noire",767,NULL
+"Speed King",769,NULL
+"Salève India Pale Ale",777,NULL
+"Salève Mademoiselle IPA",778,NULL
+"Salève Nouveaux Mondes",780,NULL
+"Salève Twin Bitter",787,NULL
+"Saison Dupont",853,NULL
+"Aecht Schlenkerla Eiche Doppelbock",877,NULL
+"Aecht Schlenkerla Rauchbier Weizen",879,NULL
+"Foudroyante Pomme",892,NULL
+"Hop Verdomme IPA",901,NULL
+"Bonnet Rouge",922,NULL
+"Cervoise Lancelot",923,NULL
+"Telenn Du",927,NULL
+"3 Loups IPA",935,NULL
+"Pacifico Clara",956,NULL
+"Oud Beersel Kriek",966,NULL
+"Sabot Bière de Fête",985,NULL
+"Sabot de Vénus",987,NULL
+Sabot-Danse,989,NULL
+"I.P.A Black Edition",1003,NULL
+Baye,1007,NULL
+"Gueuze Tilquin",1022,NULL
+"Oude Quetsche Tilquin",1024,NULL
+Melmor,1036,NULL
+"SA Gold",1050,NULL
+"Brakspear Bitter",1051,NULL
+"Oxford Gold",1052,NULL
+"Red Hooter",1053,NULL
+"Rote Zora",1054,NULL
+"Challenger Single Hop IPA",1060,NULL
+"Hardcore IPA",1066,NULL
+"Hello My Name is Vladimir",1068,NULL
+"Hops Kill ?",1070,NULL
+"I Hardcore You",1071,NULL
+"Mashtag 2014 Democratic Imperial Red Ale",1073,NULL
+"Nanny State",1075,NULL
+"Punk IPA",1079,NULL
+Bionic,1088,NULL
+"Space Frontier",1090,NULL
+"East India Pale Ale",1093,NULL
+"Moor Top",1096,NULL
+"Camden Hells Lager",1103,NULL
+"Camden Pale Ale",1104,NULL
+"Cantillon Faro",1105,NULL
+"Cantillon Kriek",1107,NULL
+Iris,1109,NULL
+Mamouche,1110,NULL
+"Rosé de Gambrinius",1111,NULL
+"Saint Lamvinus",1112,NULL
+"Zwanze 2014 (Cuvée Florian)",1113,NULL
+"Trop’ (la)",1115,NULL
+Índica,1130,NULL
+Worthington's,1136,NULL
+"All Blacks NZPA",1140,NULL
+"True Rebel",1141,NULL
+"Daleside Bitter",1142,NULL
+"Belle Fleur",1147,NULL
+Extase,1149,NULL
+Winterscotch,1161,NULL
+"Malheur Brut",1169,NULL
+Beezeke,1173,NULL
+"Cuvée de Ranke",1178,NULL
+"De Ranke Kriek",1179,NULL
+"Saint Amatus 12",1189,NULL
+Weltfreude,1190,NULL
+"Chapeau Faro",1193,NULL
+"Mission Pale Ale",1196,NULL
+Antidote,1202,NULL
+"Dogfish Head 120 minutes IPA",1208,NULL
+"Dogfish Head 60 minutes IPA",1209,NULL
+"Dogfish Head 90 minutes IPA",1210,NULL
+"Drie Fonteinen Faro",1213,NULL
+"Drie Fonteinen Oud Kriek",1216,NULL
+"Vedett Extra Ordinary IPA",1239,NULL
+"Ur Bock Dunkel",1250,NULL
+"Emelisse Blond",1253,NULL
+"Emelisse Triple IPA",1257,NULL
+"Smoked Rye IPA",1258,NULL
+Polar,1259,NULL
+"Eku 28",1261,NULL
+"Pagoa Red Ale (Gorri)",1265,NULL
+"Everards Original",1267,NULL
+"Ron and the Beast Ryan",1268,NULL
+"Havgus Session IPA",1271,NULL
+"Easy IPA",1281,NULL
+"A Freewheelin' IPA",1289,NULL
+Nordika,1291,NULL
+"Fort APA",1292,NULL
+"Double Trouble",1298,NULL
+"Founders Dry Hopped Pale Ale",1299,NULL
+1845,1310,NULL
+"ESB Champion Ale",1312,NULL
+"Fuller's India Pale Ale",1313,NULL
+"London Pride",1318,NULL
+"Past Masters Old Burton Extra",1319,NULL
+"Piper's Gold",1321,NULL
+"Four in Hand IPA",1338,NULL
+"Too Much Coffee Man",1339,NULL
+"Girardin Framboise",1340,NULL
+"Girardin Kriek Blanche",1341,NULL
+"Imperial India Pale Ale",1348,NULL
+"Abbot Ale",1349,NULL
+"Greene King IPA",1350,NULL
+"St Edmunds",1352,NULL
+"Strong Suffolk Ale",1353,NULL
+Aguila,1354,NULL
+"Hanssens Oude Kriek",1369,NULL
+Oudbeitje,1370,NULL
+"Crew Pale Ale",1382,NULL
+"Hoppin' Frog Mean Manalishi",1386,NULL
+"Happy Hoppy Vicking",1387,NULL
+"Hornbeer Imperial IPA",1388,NULL
+"Cumberland Ale",1391,NULL
+"Joli Rouge American Pale Ale",1393,NULL
+"Joli Rouge IPA",1395,NULL
+Kilkenny,1413,NULL
+Smithwick's,1414,NULL
+"Andechser Bergbock Hell",1416,NULL
+"Andechser Doppelbock Dunkel",1417,NULL
+Claudine,1431,NULL
+"Crécelle au Miel (la)",1434,NULL
+Crespelette,1441,NULL
+Menestho,1447,NULL
+"Rainette Bitter",1462,NULL
+"Rainette Rouge",1467,NULL
+"Rainette Space",1468,NULL
+"Vache à Bière Indian Pale Ale",1474,NULL
+"Asociale (l')",1480,NULL
+"P'tite Mère (la)",1484,NULL
+"DayTime Ale",1489,NULL
+Maximus,1493,NULL
+"Euskadiko Pale Ale (EPA)",1498,NULL
+"Hop'sss Marie-Magdeleine",1503,NULL
+"IPA au Paradis des Gorets",1504,NULL
+Rye-PA,1507,NULL
+Barbãr,1511,NULL
+"Floreffe Prima Melior",1513,NULL
+Newton,1517,NULL
+"Chopes du Moulin Ambrée au Thé",1523,NULL
+"Orson Ale",1529,NULL
+"Tartarin's Top Tipple",1530,NULL
+"Uggi Brew #9",1531,NULL
+"Whyld Mild",1532,NULL
+"Couille de Loup",1533,NULL
+"Cuvée René Kriek",1534,NULL
+"Lindemans Faro",1536,NULL
+"Lindemans Kriek",1537,NULL
+"Pêcheresse (la)",1538,NULL
+"Red Poppy Ale",1542,NULL
+Beerbera,1545,NULL
+d'Uvabeer,1546,NULL
+"Douglas Celtic Brown",1550,NULL
+"Gordon Finest Scotch",1552,NULL
+"Highhops 6",1564,NULL
+"Merchien Bronze - IPA",1575,NULL
+"Merchien Dorée - Bitter",1576,NULL
+"Vache Folle Imperial Milk Stout (la)",1579,NULL
+"St. Georges Blonde",1581,NULL
+"I Beat yoU",1582,NULL
+"Peter, Pale and Mary (sans gluten)",1599,NULL
+"Sorachi Ace Single Hop IPA",1600,NULL
+"Miss Sour",1610,NULL
+"Primator 24",1622,NULL
+"Hop Yard IPA",1638,NULL
+"Nøgne Ø #100",1639,NULL
+"Nøgne Ø #500",1640,NULL
+"Nøgne Ø India Saison",1645,NULL
+"Nøgne Ø IPA",1646,NULL
+"5 Barrel Pale Ale",1658,NULL
+Overdose,1663,NULL
+"Violent Shared",1664,NULL
+Ragnagnarök,1668,NULL
+Home,1670,NULL
+Tasty,1671,NULL
+"Ligne 3",1672,NULL
+Salvator,1683,NULL
+"Bosh Doppelbock",1687,NULL
+"Saphir Bock",1688,NULL
+"Farmer's Harvest",1690,NULL
+"Back to Basis West Coast IIPA",1696,NULL
+"Back to Basis West Coast IPA",1697,NULL
+"Cheshire Chocolat Porter",1700,NULL
+"Old Tom Original",1701,NULL
+"3° Miglio",1710,NULL
+Consecration,1712,NULL
+"Pliny The Elder",1713,NULL
+Sanctification,1714,NULL
+Supplication,1715,NULL
+"Randalls Mild",1716,NULL
+"Randalls Premium Bitter",1717,NULL
+"Tempête du Désert",1722,NULL
+"Samuel Adams American Kriek",1724,NULL
+"Dulle Griet",1727,NULL
+"Bishop's Finger",1733,NULL
+"Master Brew",1735,NULL
+"Shepherd Neame 1698-1998",1736,NULL
+Spitfire,1737,NULL
+ControversiAle,1739,NULL
+"Shoals Pale Ale",1755,NULL
+Un*Earthly,1759,NULL
+"St Peter's Ruby Red Ale",1775,NULL
+"Cali-België IPA",1782,NULL
+"Stone Pale Ale",1789,NULL
+"Tarraco IPA",1804,NULL
+"India Pale Ale Citra",1814,NULL
+"India Pale Ale Simcoe/Magnum",1818,NULL
+"Pale Ale A.C.T.S.",1822,NULL
+"Pale Ale Citra Nugget",1824,NULL
+"Pale Ale Mosaic",1825,NULL
+"Pale Ale Nelson Sauvin/Summit",1827,NULL
+Methusalem,1828,NULL
+"Jaipur IPA",1837,NULL
+Sequoia,1842,NULL
+"Sour Brown",1843,NULL
+"Twin Peaks",1844,NULL
+"Clerics Cure",1846,NULL
+"Double Century Celebration Ale",1847,NULL
+"Lancaster Bomber",1849,NULL
+"Timmermans Faro",1854,NULL
+"Grooving Hop",1860,NULL
+"Traquair House Ale",1862,NULL
+"Traquair Jacobite Ale",1863,NULL
+"Bière d'Automne Mosaic",1884,NULL
+"Brigand I.P.A.",1899,NULL
+"St Louis Glühbier",1902,NULL
+"Viven Imperial IPA",1919,NULL
+"Bombardier Premium Bitter",1935,NULL
+"One Claw",1936,NULL
+"Double Simcoe IPA",1938,NULL
+Verboten,1940,NULL
+"Autonomy Lost",1941,NULL
+"What the Fuck - Palisade Sorachi Ace",1944,NULL
+"White Shield",1947,NULL
+"Alba Scots Pine Ale",1948,NULL
+"Fiddlers Elbow",1958,NULL
+Hobgoblin,1959,NULL
+"das Helle",1963,NULL
+"Bécasse Originale Framboise",1984,NULL
+"Bécasse Originale Kriek",1986,NULL
+"Bodingtons Draught Bitter",1989,NULL
+"Leffe Ruby",2000,NULL
+Quilmes,2008,NULL
+"Skol Pils",2010,NULL
+"Liefmans Frambozen",2032,NULL
+"Liefmans Glühkriek",2033,NULL
+Desperados,2047,NULL
+"Fischer de Printemps",2049,NULL
+"John Smith's Original Bitter",2064,NULL
+Maes,2065,NULL
+"Mc Ewan's Scotch",2066,NULL
+"Mort Subite Kriek",2069,NULL
+"Newcastle Brown Ale",2071,NULL
+"Watneys Scotch Ale",2077,NULL
+"Corne de Brume",2086,NULL
+"Nuits Blanches",2095,NULL
+Explorer,2110,NULL
+"The Poker Series - Roi de Coeur",2111,NULL
+"Alesmith X Extra Pale Ale",2115,NULL
+"Anvil Ale ESB",2116,NULL
+Volpina,2123,NULL
+"Anchor IPA",2124,NULL
+"Old Foghorn",2129,NULL
+"Paljas IPA",2130,NULL
+"Bengal Tiger IPA",2141,NULL
+"Cascade Pale Ale",2142,NULL
+"Red Alert",2146,NULL
+"Bonaventure IPA (la)",2148,NULL
+"Tournemine Real Ale",2150,NULL
+"The Maharaja IPA",2152,NULL
+Celebrator,2153,NULL
+"Fursty Ferret",2155,NULL
+"Angry Boy Brown Ale",2157,NULL
+"Baltika 9",2167,NULL
+Tatou,2171,NULL
+"Croix Roussienne Saison (la)",2177,NULL
+"Ninkasi I.P.A.",2182,NULL
+"Ninkasi Saison - Agrippine",2185,NULL
+"Summer Swallow",2188,NULL
+"Bavaria 8.6",2189,NULL
+"Original Leipziger Gose",2190,NULL
+"8 Ball",2192,NULL
+"Gamma Ray APA",2194,NULL
+Delta,2196,NULL
+"Belhaven Fruit Beer",2201,NULL
+"Belhaven Scottish Ale",2202,NULL
+"St Andrews Ale",2206,NULL
+"Twisted Thistle IPA",2207,NULL
+"Neudorf Red Ale",2210,NULL
+Procrastinator,2219,NULL
+"Rousse Pète",2227,NULL
+Equilibrista,2238,NULL
+Prunus,2243,NULL
+Rubus,2245,NULL
+"Black Sheep Ale",2258,NULL
+"Monty Python Holy Grail",2260,NULL
+"Jacobins Framboise Max",2262,NULL
+Kerasus,2292,NULL
+Omega,2298,NULL
+Phi,2299,NULL
+"Aour Du",2303,NULL
+"Lutina Violetta",2329,NULL
+Atlas,2336,NULL
+"Astra Urtyp",2344,NULL
+"O'Haras Irish Pale Ale",2361,NULL
+"Bon Secours Myrtille",2368,NULL
+"Brasserie Corrézienne Ambrée",2378,NULL
+"Brasserie Corrézienne Rouge",2382,NULL
+"HopHopHop Aramis",2389,NULL
+"Bercloise au Cognac",2408,NULL
+"Gwiniz Du (Cuvée crêperie)",2427,NULL
+"Amérindienne (l')",2431,NULL
+"Cowboy & Indien Pale Ale",2433,NULL
+"Fleurac Rouge à la Gentiane",2438,NULL
+"Blondine Chinook Single Hop IPA",2454,NULL
+"Julien Indian Pale Ale",2463,NULL
+"Tête au Carré",2466,NULL
+"3 Ter",2468,NULL
+Ernestine,2470,NULL
+"Double Sec",2473,NULL
+Lun'ion-Jacques,2494,NULL
+Luna'cious,2495,NULL
+"Brusseleir Zwët IPA",2507,NULL
+"'t Ooievaartje Krieken Rosé",2533,NULL
+Amarillo,2534,NULL
+"Bitch Black",2535,NULL
+"Mikkel & Menno",2540,NULL
+"Open & Bloot",2542,NULL
+"Sladek Hopburst",2545,NULL
+"Elliot Brew",2580,NULL
+"SVEA IPA",2589,NULL
+"Atlantic au pineau",2608,NULL
+"Arlésienne (l')",2611,NULL
+"Frappadingue (la)",2620,NULL
+"Oldarki au Patxaran",2642,NULL
+"Vent d'Ange",2653,NULL
+Chaman,2656,NULL
+"Corne du Diable",2658,NULL
+"Rigor Mortis",2662,NULL
+"Route des Epices",2664,NULL
+Mouska,2667,NULL
+"Bob's Cherry Ale",2672,NULL
+"Bobby's Own Ginger Beer",2673,NULL
+"Lili's Beer",2675,NULL
+"Soft Bobby",2677,NULL
+"Antytax Roi des Astyanax",2701,NULL
+"Cherries from Space",2704,NULL
+"Dernière Tentation (la)",2707,NULL
+"Dr. Jekyll",2709,NULL
+"Loch Dukoss",2711,NULL
+"Mister Hyde",2713,NULL
+"Rambling Skunk (the)",2715,NULL
+"Squale Harmonique (le)",2717,NULL
+"Lune Noire",2728,NULL
+"Speed King",2730,NULL
+"Salève India Pale Ale",2738,NULL
+"Salève Mademoiselle IPA",2739,NULL
+"Salève Nouveaux Mondes",2741,NULL
+"Salève Twin Bitter",2748,NULL
+"Saison Dupont",2814,NULL
+"Aecht Schlenkerla Eiche Doppelbock",2838,NULL
+"Aecht Schlenkerla Rauchbier Weizen",2840,NULL
+"Foudroyante Pomme",2853,NULL
+"Hop Verdomme IPA",2862,NULL
+"Bonnet Rouge",2883,NULL
+"Cervoise Lancelot",2884,NULL
+"Telenn Du",2888,NULL
+"3 Loups IPA",2896,NULL
+"Pacifico Clara",2917,NULL
+"Oud Beersel Kriek",2927,NULL
+"Sabot Bière de Fête",2946,NULL
+"Sabot de Vénus",2948,NULL
+Sabot-Danse,2950,NULL
+"I.P.A Black Edition",2964,NULL
+Baye,2968,NULL
+"Gueuze Tilquin",2983,NULL
+"Oude Quetsche Tilquin",2985,NULL
+Melmor,2997,NULL
+"SA Gold",3011,NULL
+"Brakspear Bitter",3012,NULL
+"Oxford Gold",3013,NULL
+"Red Hooter",3014,NULL
+"Rote Zora",3015,NULL
+"Challenger Single Hop IPA",3021,NULL
+"Hardcore IPA",3027,NULL
+"Hello My Name is Vladimir",3029,NULL
+"Hops Kill ?",3031,NULL
+"I Hardcore You",3032,NULL
+"Mashtag 2014 Democratic Imperial Red Ale",3034,NULL
+"Nanny State",3036,NULL
+"Punk IPA",3040,NULL
+Bionic,3049,NULL
+"Space Frontier",3051,NULL
+"East India Pale Ale",3054,NULL
+"Moor Top",3057,NULL
+"Camden Hells Lager",3064,NULL
+"Camden Pale Ale",3065,NULL
+"Cantillon Faro",3066,NULL
+"Cantillon Kriek",3068,NULL
+Iris,3070,NULL
+Mamouche,3071,NULL
+"Rosé de Gambrinius",3072,NULL
+"Saint Lamvinus",3073,NULL
+"Zwanze 2014 (Cuvée Florian)",3074,NULL
+"Trop’ (la)",3076,NULL
+Índica,3091,NULL
+Worthington's,3097,NULL
+"All Blacks NZPA",3101,NULL
+"True Rebel",3102,NULL
+"Daleside Bitter",3103,NULL
+"Belle Fleur",3108,NULL
+Extase,3110,NULL
+Winterscotch,3122,NULL
+"Malheur Brut",3130,NULL
+Beezeke,3134,NULL
+"Cuvée de Ranke",3139,NULL
+"De Ranke Kriek",3140,NULL
+"Saint Amatus 12",3150,NULL
+Weltfreude,3151,NULL
+"Chapeau Faro",3154,NULL
+"Mission Pale Ale",3157,NULL
+Antidote,3163,NULL
+"Dogfish Head 120 minutes IPA",3169,NULL
+"Dogfish Head 60 minutes IPA",3170,NULL
+"Dogfish Head 90 minutes IPA",3171,NULL
+"Drie Fonteinen Faro",3174,NULL
+"Drie Fonteinen Oud Kriek",3177,NULL
+"Vedett Extra Ordinary IPA",3200,NULL
+"Ur Bock Dunkel",3211,NULL
+"Emelisse Blond",3214,NULL
+"Emelisse Triple IPA",3218,NULL
+"Smoked Rye IPA",3219,NULL
+Polar,3220,NULL
+"Eku 28",3222,NULL
+"Pagoa Red Ale (Gorri)",3226,NULL
+"Everards Original",3228,NULL
+"Ron and the Beast Ryan",3229,NULL
+"Havgus Session IPA",3232,NULL
+"Easy IPA",3242,NULL
+"A Freewheelin' IPA",3250,NULL
+Nordika,3252,NULL
+"Fort APA",3253,NULL
+"Double Trouble",3259,NULL
+"Founders Dry Hopped Pale Ale",3260,NULL
+1845,3271,NULL
+"ESB Champion Ale",3273,NULL
+"Fuller's India Pale Ale",3274,NULL
+"London Pride",3279,NULL
+"Past Masters Old Burton Extra",3280,NULL
+"Piper's Gold",3282,NULL
+"Four in Hand IPA",3299,NULL
+"Too Much Coffee Man",3300,NULL
+"Girardin Framboise",3301,NULL
+"Girardin Kriek Blanche",3302,NULL
+"Imperial India Pale Ale",3309,NULL
+"Abbot Ale",3310,NULL
+"Greene King IPA",3311,NULL
+"St Edmunds",3313,NULL
+"Strong Suffolk Ale",3314,NULL
+Aguila,3315,NULL
+"Hanssens Oude Kriek",3330,NULL
+Oudbeitje,3331,NULL
+"Crew Pale Ale",3343,NULL
+"Hoppin' Frog Mean Manalishi",3347,NULL
+"Happy Hoppy Vicking",3348,NULL
+"Hornbeer Imperial IPA",3349,NULL
+"Cumberland Ale",3352,NULL
+"Joli Rouge American Pale Ale",3354,NULL
+"Joli Rouge IPA",3356,NULL
+Kilkenny,3374,NULL
+Smithwick's,3375,NULL
+"Andechser Bergbock Hell",3377,NULL
+"Andechser Doppelbock Dunkel",3378,NULL
+Claudine,3392,NULL
+"Crécelle au Miel (la)",3395,NULL
+Crespelette,3402,NULL
+Menestho,3408,NULL
+"Rainette Bitter",3423,NULL
+"Rainette Rouge",3428,NULL
+"Rainette Space",3429,NULL
+"Vache à Bière Indian Pale Ale",3435,NULL
+"Asociale (l')",3441,NULL
+"P'tite Mère (la)",3445,NULL
+"DayTime Ale",3450,NULL
+Maximus,3454,NULL
+"Euskadiko Pale Ale (EPA)",3459,NULL
+"Hop'sss Marie-Magdeleine",3464,NULL
+"IPA au Paradis des Gorets",3465,NULL
+Rye-PA,3468,NULL
+Barbãr,3472,NULL
+"Floreffe Prima Melior",3474,NULL
+Newton,3478,NULL
+"Chopes du Moulin Ambrée au Thé",3484,NULL
+"Orson Ale",3490,NULL
+"Tartarin's Top Tipple",3491,NULL
+"Uggi Brew #9",3492,NULL
+"Whyld Mild",3493,NULL
+"Couille de Loup",3494,NULL
+"Cuvée René Kriek",3495,NULL
+"Lindemans Faro",3497,NULL
+"Lindemans Kriek",3498,NULL
+"Pêcheresse (la)",3499,NULL
+"Red Poppy Ale",3503,NULL
+Beerbera,3506,NULL
+d'Uvabeer,3507,NULL
+"Douglas Celtic Brown",3511,NULL
+"Gordon Finest Scotch",3513,NULL
+"Highhops 6",3525,NULL
+"Merchien Bronze - IPA",3536,NULL
+"Merchien Dorée - Bitter",3537,NULL
+"Vache Folle Imperial Milk Stout (la)",3540,NULL
+"St. Georges Blonde",3542,NULL
+"I Beat yoU",3543,NULL
+"Peter, Pale and Mary (sans gluten)",3560,NULL
+"Sorachi Ace Single Hop IPA",3561,NULL
+"Miss Sour",3571,NULL
+"Primator 24",3583,NULL
+"Hop Yard IPA",3599,NULL
+"Nøgne Ø #100",3600,NULL
+"Nøgne Ø #500",3601,NULL
+"Nøgne Ø India Saison",3606,NULL
+"Nøgne Ø IPA",3607,NULL
+"5 Barrel Pale Ale",3619,NULL
+Overdose,3624,NULL
+"Violent Shared",3625,NULL
+Ragnagnarök,3629,NULL
+Home,3631,NULL
+Tasty,3632,NULL
+"Ligne 3",3633,NULL
+Salvator,3644,NULL
+"Bosh Doppelbock",3648,NULL
+"Saphir Bock",3649,NULL
+"Farmer's Harvest",3651,NULL
+"Back to Basis West Coast IIPA",3657,NULL
+"Back to Basis West Coast IPA",3658,NULL
+"Cheshire Chocolat Porter",3661,NULL
+"Old Tom Original",3662,NULL
+"3° Miglio",3671,NULL
+Consecration,3673,NULL
+"Pliny The Elder",3674,NULL
+Sanctification,3675,NULL
+Supplication,3676,NULL
+"Randalls Mild",3677,NULL
+"Randalls Premium Bitter",3678,NULL
+"Tempête du Désert",3683,NULL
+"Samuel Adams American Kriek",3685,NULL
+"Dulle Griet",3688,NULL
+"Bishop's Finger",3694,NULL
+"Master Brew",3696,NULL
+"Shepherd Neame 1698-1998",3697,NULL
+Spitfire,3698,NULL
+ControversiAle,3700,NULL
+"Shoals Pale Ale",3716,NULL
+Un*Earthly,3720,NULL
+"St Peter's Ruby Red Ale",3736,NULL
+"Cali-België IPA",3743,NULL
+"Stone Pale Ale",3750,NULL
+"Tarraco IPA",3765,NULL
+"India Pale Ale Citra",3775,NULL
+"India Pale Ale Simcoe/Magnum",3779,NULL
+"Pale Ale A.C.T.S.",3783,NULL
+"Pale Ale Citra Nugget",3785,NULL
+"Pale Ale Mosaic",3786,NULL
+"Pale Ale Nelson Sauvin/Summit",3788,NULL
+Methusalem,3789,NULL
+"Jaipur IPA",3798,NULL
+Sequoia,3803,NULL
+"Sour Brown",3804,NULL
+"Twin Peaks",3805,NULL
+"Clerics Cure",3807,NULL
+"Double Century Celebration Ale",3808,NULL
+"Lancaster Bomber",3810,NULL
+"Timmermans Faro",3815,NULL
+"Grooving Hop",3821,NULL
+"Traquair House Ale",3823,NULL
+"Traquair Jacobite Ale",3824,NULL
+"Bière d'Automne Mosaic",3845,NULL
+"Brigand I.P.A.",3860,NULL
+"St Louis Glühbier",3863,NULL
+"Viven Imperial IPA",3880,NULL
+"Bombardier Premium Bitter",3896,NULL
+"One Claw",3897,NULL
+"Double Simcoe IPA",3899,NULL
+Verboten,3901,NULL
+"Autonomy Lost",3902,NULL
+"What the Fuck - Palisade Sorachi Ace",3905,NULL
+"White Shield",3908,NULL
+"Alba Scots Pine Ale",3909,NULL
+"Fiddlers Elbow",3919,NULL
+Hobgoblin,3920,NULL
