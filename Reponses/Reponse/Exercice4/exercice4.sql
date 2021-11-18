@@ -1,0 +1,2 @@
+SELECT ID_article, QUANTITE FROM ventes
+WHERE QUANTITE > 50
