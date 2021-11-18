@@ -30,3 +30,7 @@ AYEZ DU FUN <3
 ### feat : Exercice6
 
 ### feat : Exercice7
+
+### feat : Exercice8
+
+### feat : Exercice9
