@@ -1,0 +1,2 @@
+SELECT NUMERO_TICKET from ventes
+where ID_ARTICLE = 500
