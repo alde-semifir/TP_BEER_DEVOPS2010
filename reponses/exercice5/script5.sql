@@ -1,7 +1,7 @@
 SELECT 
-    Numero_ticket AS 'Numéro ticket', Date_vente
+    Numero_ticket AS 'Numéro ticket', DATE_VENTE
 FROM
     ticket
 WHERE
-    MONTH(Date_Vente) = 03
-        AND YEAR(Date_vente) = 2014
+    MONTH(DATE_VENTE) = 03
+        AND YEAR(DATE_VENTE) = 2014
