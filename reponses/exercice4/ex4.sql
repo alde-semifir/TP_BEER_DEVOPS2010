@@ -1,0 +1,1 @@
+select NOM_ARTICLE, QUANTITE from article inner join ventes on article.ID_ARTICLE = ventes.ID_ARTICLE where ventes.QUANTITE >= 50;
