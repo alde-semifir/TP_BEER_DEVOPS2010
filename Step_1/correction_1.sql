@@ -1,0 +1,6 @@
+SELECT 
+    NUMERO_TICKET
+FROM
+    ventes
+WHERE
+    ID_ARTICLE LIKE 500;
