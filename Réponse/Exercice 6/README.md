@@ -2,7 +2,7 @@
 
 ## Enoncé
 
-6. Quelles sont les tickets émis entre les mois de mars et avril 2014 ?
+Quelles sont les tickets émis entre les mois de mars et avril 2014 ?
 
 ## Requête
 

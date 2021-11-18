@@ -1,8 +1,8 @@
-# Exercice 1
+# Exercice 3
 
 ## Enoncé
 
-Exercice SQL
+Afficher les tickets émis du 15/01/2014 et le 17/01/2014.
 
 ## Requête
 

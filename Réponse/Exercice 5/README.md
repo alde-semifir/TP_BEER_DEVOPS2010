@@ -2,7 +2,7 @@
 
 ## Enoncé
 
-5. Quelles sont les tickets émis au mois de mars 2014.
+Quelles sont les tickets émis au mois de mars 2014.
 
 ## Requête
 

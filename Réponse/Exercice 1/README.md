@@ -2,7 +2,7 @@
 
 ## Enoncé
 
-1. Quels sont les tickets qui comportent l’article d’ID 500, afficher le numéro de ticket
+Quels sont les tickets qui comportent l’article d’ID 500, afficher le numéro de ticket
 uniquement ?
 
 ## Requête
