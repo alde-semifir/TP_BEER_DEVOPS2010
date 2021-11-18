@@ -1,0 +1,1 @@
+select article.ID_ARTICLE, article.NOM_ARTICLE,couleur.NOM_COULEUR from article inner join couleur on article.ID_Couleur=couleur.ID_Couleur 
