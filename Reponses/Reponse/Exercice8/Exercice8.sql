@@ -1,3 +1,3 @@
-SELECT article.ID_ARTICLE, article.NOM_ARTICLE,couleur.NOM_COULEUR 
+SELECT ID_ARTICLE, NOM_ARTICLE, NOM_COULEUR 
 FROM article 
-INNER JOIN couleur ON article.ID_Couleur=couleur.ID_Couleur 
+INNER JOIN couleur ON article.ID_Couleur=couleur.ID_Couleur
