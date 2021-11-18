@@ -1,0 +1,6 @@
+SELECT 
+    NUMERO_TICKET,QUANTITE
+FROM
+    ventes
+WHERE
+    QUANTITE > 50;
