@@ -1,0 +1,7 @@
+SELECT NUMERO_TICKET AS 'Ticket N°', SUM(QUANTITE) AS Quantités 
+from ventes
+GROUP BY
+	ventes.NUMERO_TICKET
+ORDER BY 
+	SUM(QUANTITE)DESC;
+    
