@@ -1,6 +1,6 @@
 SELECT 
-    ticket.DATE_VENTE
+    ticket.NUMERO_TICKET, ticket.DATE_VENTE
 FROM
     ticket
 WHERE
-    DATE_VENTE = '2015-01-15'
+    DATE_VENTE = '2014-01-15'
