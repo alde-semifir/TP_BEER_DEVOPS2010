@@ -1,0 +1,6 @@
+SELECT 
+    ticket.DATE_VENTE
+FROM
+    ticket
+WHERE
+    DATE_VENTE = '2015-01-15'
