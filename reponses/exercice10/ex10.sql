@@ -1,0 +1,1 @@
+select ventes.NUMERO_TICKET, sum(ventes.QUANTITE) as qte from ventes group by NUMERO_TICKET order by qte desc
