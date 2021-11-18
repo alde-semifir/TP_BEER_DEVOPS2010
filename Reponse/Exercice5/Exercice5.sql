@@ -4,4 +4,4 @@ SELECT
 FROM
     ticket
 WHERE
-    ticket.DATE_VENTE LIKE '2014-03-%'
+    ticket.DATE_VENTE LIKE '2014-03-%';
