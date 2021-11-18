@@ -12,3 +12,11 @@
 6. Réalisez un push après chaque exercice.
 
 AYEZ DU FUN <3
+
+### initial commit
+
+### feat : Ajout README
+
+### feat : Exercice1
+
+### feat : Exercice2
