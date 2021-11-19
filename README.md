@@ -54,3 +54,5 @@ AYEZ DU FUN <3
 ### feat : Exercice18 et 19
 
 ### feat : Exercice20 et 21
+
+### feat : Exercice22
