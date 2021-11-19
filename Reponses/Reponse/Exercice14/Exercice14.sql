@@ -1,8 +1,8 @@
 SELECT 
-    article.NOM_ARTICLE 'ID',
-    article.NOM_ARTICLE 'Nom',
+    marque.NOM_MARQUE 'ID',
+    marque.NOM_MARQUE 'Nom',
    
     continent.NOM_CONTINENT
 FROM
-    article, continent
+    marque, continent
 WHERE continent.NOM_CONTINENT = 'Afrique'
