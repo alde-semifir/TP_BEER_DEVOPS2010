@@ -1,0 +1,8 @@
+SELECT 
+    NUMERO_TICKET AS 'Ticket N°', SUM(QUANTITE) AS Quantites
+FROM
+    ventes
+WHERE QUANTITE < 50
+GROUP BY ventes.NUMERO_TICKET
+HAVING Quantites > 500
+ORDER BY Quantites DESC
