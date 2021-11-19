@@ -33,7 +33,7 @@ AYEZ DU FUN <3
 
 ### feat : Exercice8
 
-### feat : Exercice9
+### feat : Exercice9 (bis et ter)
 
 ### feat : Exercice10
 
@@ -42,3 +42,5 @@ AYEZ DU FUN <3
 ### feat : Exercice12
 
 ### feat : Exercice13
+
+### feat : Exercice14
