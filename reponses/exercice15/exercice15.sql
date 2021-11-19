@@ -1,0 +1,14 @@
+SELECT 
+    ID_ARTICLE AS ID, NOM_ARTICLE AS Biere
+FROM
+    article
+LEFT JOIN
+	marque
+ON article.ID_MARQUE = marque.ID_MARQUE
+LEFT JOIN
+	pays
+ON marque.ID_PAYS = pays.ID_PAYS
+LEFT JOIN
+	continent
+ON pays.ID_CONTINENT = continent.ID_CONTINENT
+WHERE NOM_CONTINENT ='AFRIQUE';
