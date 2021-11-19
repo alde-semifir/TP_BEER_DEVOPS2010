@@ -1,12 +1,12 @@
-# 12. Lister chaque ticket pour lequel la quantité totale d’articles vendus est supérieure à
-# 500. On exclura du total, les vente s ayant une quantité supérieure à 50 (classer par
-# quantité décroissante)
+--- 12. Lister chaque ticket pour lequel la quantité totale d’articles vendus est supérieure à
+--- 500. On exclura du total, les vente s ayant une quantité supérieure à 50 (classer par
+--- quantité décroissante)
 
 SELECT 
     ventes.NUMERO_TICKET 'Numéro Ticket',
     SUM(CASE
-        WHEN ventes.QUANTITE > 50 THEN 0
-        ELSE ventes.QUANTITE
+        WHEN ventes.QUANTITE <= 50 THEN ventes.QUANTITE
+        ELSE 0
     END) as Total
 FROM
     ventes

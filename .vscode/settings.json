@@ -8,10 +8,10 @@
             "server": "localhost",
             "port": 3306,
             "driver": "MySQL",
-            "name": "Docker",
+            "name": "Dock",
             "database": "beer",
             "username": "root",
-            "password": "Hercules4mx"
+            "password": "password"
         }
     ]
 }
