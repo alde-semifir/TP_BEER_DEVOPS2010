@@ -7,5 +7,6 @@ SELECT
     article.TITRAGE 'Titrage',
     beer.type.NOM_TYPE 'Type de biere' -- A commenter
 FROM
-    article, `type`
-WHERE beer.type.NOM_TYPE = 'Trappiste'
+    article
+LEFT JOIN beer.type ON beer.type.ID_TYPE = beer.article.ID_TYPE
+where beer.type.NOM_TYPE = "Trappiste"
