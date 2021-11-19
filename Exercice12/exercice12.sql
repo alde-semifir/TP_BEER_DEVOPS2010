@@ -11,7 +11,7 @@ SELECT
 FROM
     ventes
 GROUP BY ventes.NUMERO_TICKET
-HAVING Total > 0
+HAVING Total > 500
 ORDER BY Total DESC
 
 
