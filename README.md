@@ -12,3 +12,29 @@
 6. Réalisez un push après chaque exercice.
 
 AYEZ DU FUN <3
+
+### ajout Step 1
+
+### ajout Step 2
+
+### ajout Step 3
+
+### ajout Step 4
+
+### ajout Step 5
+
+### ajout Step 6
+
+### ajout Step 7
+
+### ajout Step 8
+
+### ajout Step 9
+
+### ajout Step 10
+
+### ajout Step 11
+
+### ajout Step 12
+
+### ajout Step 13
