@@ -6,4 +6,4 @@ FROM
     ventes
         INNER JOIN
     article ON ventes.ID_ARTICLE = article.ID_ARTICLE
-GROUP BY ventes.NUMERO_TICKET;
+GROUP BY ventes.NUMERO_TICKET, ventes.ANNEE;
