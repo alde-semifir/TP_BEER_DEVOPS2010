@@ -3,7 +3,7 @@ SELECT
 FROM
     ventes
 WHERE
-    ventes.QUANTITE < 50
+    ventes.QUANTITE <= 50
 GROUP BY NUMERO_TICKET
 HAVING qte > 500
 ORDER BY qte DESC;

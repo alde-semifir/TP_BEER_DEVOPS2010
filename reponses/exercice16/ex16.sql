@@ -1,7 +1,7 @@
 SELECT 
     ventes.ANNEE,
     ventes.NUMERO_TICKET,
-    round(SUM((ventes.QUANTITE * article.PRIX_ACHAT) * 1.15),2) AS prix_total
+    concat(ROUND(SUM((ventes.QUANTITE * article.PRIX_ACHAT) * 1.15),2), _ucs2 0x20AC) AS prix_total
 FROM
     ventes
         INNER JOIN
