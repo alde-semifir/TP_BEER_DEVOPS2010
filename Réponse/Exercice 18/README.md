@@ -23,7 +23,7 @@ GROUP BY article.NOM_ARTICLE;
 
 Voici le résultat de la requête:
 
-![Exercice18](exercice17.png)
+![Exercice18](exercice18.png)
 
 ## Remarques
 Aucune
