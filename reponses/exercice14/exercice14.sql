@@ -1,0 +1,11 @@
+SELECT 
+    ID_MARQUE, NOM_MARQUE
+FROM
+    marque
+LEFT JOIN
+	pays
+ON marque.ID_PAYS = pays.ID_PAYS
+LEFT JOIN
+	continent
+ON pays.ID_CONTINENT = continent.ID_CONTINENT
+WHERE NOM_CONTINENT ='AFRIQUE';
