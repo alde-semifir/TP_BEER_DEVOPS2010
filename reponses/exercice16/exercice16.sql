@@ -1,0 +1,10 @@
+SELECT 
+    ANNEE, NUMERO_TICKET, PRIX_ACHAT, SUM(QUANTITE),
+    round(SUM(ventes.QUANTITE*article.PRIX_ACHAT*1.15),2) AS total
+FROM
+	ventes
+lEFT JOIN
+	article
+ON ventes.ID_ARTICLE = article.ID_ARTICLE
+GROUP BY
+	ventes.NUMERO_TICKET, ventes.ANNEE;
