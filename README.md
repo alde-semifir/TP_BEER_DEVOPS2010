@@ -62,3 +62,5 @@ AYEZ DU FUN <3
 ### feat : Exercice24
 
 ### feat : Exercice25
+
+### feat : Exercice26
