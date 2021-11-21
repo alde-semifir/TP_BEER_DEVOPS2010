@@ -2,7 +2,7 @@
 
 ## Enoncé
 
-Donner pour chaque fabricant, le nombre de tickets sur lesquels apparait un de ses produits en 2014.
+Donner l’ID, le nom, le volume et la quantité vendue des 20 articles les plus vendus en 2016.
 
 ## Requête
 
