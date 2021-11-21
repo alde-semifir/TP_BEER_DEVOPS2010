@@ -1,2 +1,3 @@
-/.vscode
-Docker.session.sql
+.vscode/
+.vscode/*
+*.session.sql

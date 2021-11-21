@@ -1,2 +1,2 @@
-SELECT * FROM beer.ticket
-where MONTH(beer.ticket.DATE_VENTE) = 3
+SELECT * FROM ticket
+WHERE DATE_FORMAT(ticket.DATE_VENTE, "%Y-%m") = "2014-03"

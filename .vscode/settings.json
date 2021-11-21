@@ -5,13 +5,13 @@
                 "authProtocol": "default"
             },
             "previewLimit": 50,
-            "server": "localhost",
+            "server": "127.0.0.1",
             "port": 3306,
+            "askForPassword": true,
             "driver": "MySQL",
             "name": "Dock",
             "database": "beer",
-            "username": "root",
-            "password": "password"
+            "username": "root"
         }
     ]
 }
