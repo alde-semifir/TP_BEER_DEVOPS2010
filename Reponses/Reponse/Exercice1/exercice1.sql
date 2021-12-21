@@ -1,0 +1,3 @@
+SELECT * FROM ticket
+
+WHERE NUMERO_TICKET = '500'
